@@ -1,2 +1,5 @@
-# rollup-rsbuild-rolldown
-react项目基于rollup/rsbuild/rolldown构建
+# react项目
+
+### AntUI Scss TypeScript React tailwind
+
+### 基于rollup/rsbuild/rolldown构建
